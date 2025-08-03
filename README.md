@@ -1,9 +1,36 @@
-🚀 Sales_Analysis_Dashboard 📊
+🚀 Sales Analysis Dashboard Project
 
-🔍 Project Overview: An interactive Sales Analysis Dashboard built with Power BI that provides comprehensive insights into sales performance, revenue trends, and business growth metrics. This dashboard leverages advanced visualizations and filtering techniques to help stakeholders make data-driven decisions.
+I created an interactive Sales Analysis Dashboard using Power BI to help visualize and understand overall sales performance. The dashboard combines data from different sources and shows clear insights into revenue, profit, and sales trends.
 
-🎯 Key Features:
+Main Highlights:
 
-📈 Dynamic data visualizations: Bar charts, Pie charts, Maps, and more. 📊 Real-time data filtering and analysis using Power BI. 🌍 Geographic sales insights with interactive maps. 📅 Time-based trends and performance tracking. 📂 Integration of multiple data sources for comprehensive analysis. 🔧 Tools Used:
+Designed visuals like bar charts, pie charts, line graphs, and a map to break down sales by segment, payment mode, ship mode, and product category.
 
-Power BI 🛠️ SQL for data manipulation 🗃️ Advanced DAX calculations 📐
+Built KPI cards to track key metrics, including total sales (1.57M), quantity sold (22K), and total profit (175K).
+
+Added time-based analysis to compare sales and profit across months and years.
+
+Integrated a map view to see profit distribution by state across North America.
+
+Implemented filters for different quarters so users can focus on specific time periods.
+
+Used SQL for data preparation and DAX formulas for calculations and measures.
+
+This dashboard helps teams easily spot trends, see which categories and regions are performing best, and make better business decisions based on data.
+
+If you’d like, I can tweak this further to fit a resume, LinkedIn summary, or project report—just let me know!
+
+
+
+
+
+
+
+
+Is this conversation helpful so far?
+
+
+
+
+Ask ChatGPT
+
