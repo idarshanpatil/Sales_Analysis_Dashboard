@@ -17,20 +17,3 @@ Implemented filters for different quarters so users can focus on specific time p
 Used SQL for data preparation and DAX formulas for calculations and measures.
 
 This dashboard helps teams easily spot trends, see which categories and regions are performing best, and make better business decisions based on data.
-
-If you’d like, I can tweak this further to fit a resume, LinkedIn summary, or project report—just let me know!
-
-
-
-
-
-
-
-
-Is this conversation helpful so far?
-
-
-
-
-Ask ChatGPT
-
